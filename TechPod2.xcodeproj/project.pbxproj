@@ -14,6 +14,42 @@
 		E1723352220ED91100201AD9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1723350220ED91100201AD9 /* LaunchScreen.storyboard */; };
 		E172335D220ED91100201AD9 /* TechPod2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E172335C220ED91100201AD9 /* TechPod2Tests.swift */; };
 		E1723368220ED91100201AD9 /* TechPod2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1723367220ED91100201AD9 /* TechPod2UITests.swift */; };
+		E172339D220EEF8400201AD9 /* Chopin_BarcarolleOp60.m4a in Resources */ = {isa = PBXBuildFile; fileRef = E1723392220EEF8400201AD9 /* Chopin_BarcarolleOp60.m4a */; };
+		E172339E220EEF8400201AD9 /* Rachmaninov_ Piano Concerto #3 In D Minor, Op. 30 - 1. Allegro Ma Non Tanto.m4a in Resources */ = {isa = PBXBuildFile; fileRef = E1723393220EEF8400201AD9 /* Rachmaninov_ Piano Concerto #3 In D Minor, Op. 30 - 1. Allegro Ma Non Tanto.m4a */; };
+		E172339F220EEF8400201AD9 /* Chopin_BallardNo4.m4a in Resources */ = {isa = PBXBuildFile; fileRef = E1723394220EEF8400201AD9 /* Chopin_BallardNo4.m4a */; };
+		E17233A0220EEF8400201AD9 /* ショパン_ ワルツ #6 変ニ長調, Op. 64_1, 『小犬』.m4a in Resources */ = {isa = PBXBuildFile; fileRef = E1723395220EEF8400201AD9 /* ショパン_ ワルツ #6 変ニ長調, Op. 64_1, 『小犬』.m4a */; };
+		E17233A1220EEF8400201AD9 /* ショパン_ 練習曲第4番, 嬰ハ短調, Op. 10-4.m4a in Resources */ = {isa = PBXBuildFile; fileRef = E1723396220EEF8400201AD9 /* ショパン_ 練習曲第4番, 嬰ハ短調, Op. 10-4.m4a */; };
+		E17233A2220EEF8400201AD9 /* ラフマニノフ_ ピアノ協奏曲第2番, ハ短調, Op. 18 - 1. モデラート.m4a in Resources */ = {isa = PBXBuildFile; fileRef = E1723397220EEF8400201AD9 /* ラフマニノフ_ ピアノ協奏曲第2番, ハ短調, Op. 18 - 1. モデラート.m4a */; };
+		E17233A3220EEF8400201AD9 /* Rachmaninov_ Piano Concerto #3 In D Minor, Op. 30 - 2. Intermezzo Adagio.m4a in Resources */ = {isa = PBXBuildFile; fileRef = E1723398220EEF8400201AD9 /* Rachmaninov_ Piano Concerto #3 In D Minor, Op. 30 - 2. Intermezzo Adagio.m4a */; };
+		E17233A4220EEF8400201AD9 /* ラフマニノフ_ ピアノ協奏曲第2番, ハ短調, Op. 18 - 2. アダージョ・ソステヌート.m4a in Resources */ = {isa = PBXBuildFile; fileRef = E1723399220EEF8400201AD9 /* ラフマニノフ_ ピアノ協奏曲第2番, ハ短調, Op. 18 - 2. アダージョ・ソステヌート.m4a */; };
+		E17233A5220EEF8400201AD9 /* ラフマニノフ_ ピアノ協奏曲第2番, ハ短調, Op. 18 - 3. アレグロ・スケルツァンド.m4a in Resources */ = {isa = PBXBuildFile; fileRef = E172339A220EEF8400201AD9 /* ラフマニノフ_ ピアノ協奏曲第2番, ハ短調, Op. 18 - 3. アレグロ・スケルツァンド.m4a */; };
+		E17233A6220EEF8400201AD9 /* リスト_ラ・カンパネラ.m4a in Resources */ = {isa = PBXBuildFile; fileRef = E172339B220EEF8400201AD9 /* リスト_ラ・カンパネラ.m4a */; };
+		E17233A7220EEF8400201AD9 /* Rachmaninov_ Piano Concerto #3 In D Minor, Op. 30 - 3. Finale, Alla Breve.m4a in Resources */ = {isa = PBXBuildFile; fileRef = E172339C220EEF8400201AD9 /* Rachmaninov_ Piano Concerto #3 In D Minor, Op. 30 - 3. Finale, Alla Breve.m4a */; };
+		E17233BD220EFD0300201AD9 /* Chopin_ Prelude #23 In F, Op. 28_23.m4a in Resources */ = {isa = PBXBuildFile; fileRef = E17233A8220EFCFD00201AD9 /* Chopin_ Prelude #23 In F, Op. 28_23.m4a */; };
+		E17233BE220EFD0300201AD9 /* Chopin_ Etude #1 In A Flat, Op. 25_1, _Aeolian Harp_.m4a in Resources */ = {isa = PBXBuildFile; fileRef = E17233A9220EFCFD00201AD9 /* Chopin_ Etude #1 In A Flat, Op. 25_1, _Aeolian Harp_.m4a */; };
+		E17233BF220EFD0300201AD9 /* Chopin_ Prelude #3 In G, Op. 28_3.m4a in Resources */ = {isa = PBXBuildFile; fileRef = E17233AA220EFCFE00201AD9 /* Chopin_ Prelude #3 In G, Op. 28_3.m4a */; };
+		E17233C0220EFD0300201AD9 /* Chopin_ Nocturne #1 In B Flat Minor, Op. 9_1.m4a in Resources */ = {isa = PBXBuildFile; fileRef = E17233AB220EFCFE00201AD9 /* Chopin_ Nocturne #1 In B Flat Minor, Op. 9_1.m4a */; };
+		E17233C1220EFD0300201AD9 /* Chopin_ Etude #7 In C Sharp Minor, Op. 25_7.m4a in Resources */ = {isa = PBXBuildFile; fileRef = E17233AC220EFCFE00201AD9 /* Chopin_ Etude #7 In C Sharp Minor, Op. 25_7.m4a */; };
+		E17233C2220EFD0300201AD9 /* Chopin_ Nocturne #2 In E Flat, Op. 9_2.m4a in Resources */ = {isa = PBXBuildFile; fileRef = E17233AD220EFCFF00201AD9 /* Chopin_ Nocturne #2 In E Flat, Op. 9_2.m4a */; };
+		E17233C3220EFD0300201AD9 /* Chopin_ Berceuse In D Flat, Op. 57.m4a in Resources */ = {isa = PBXBuildFile; fileRef = E17233AE220EFCFF00201AD9 /* Chopin_ Berceuse In D Flat, Op. 57.m4a */; };
+		E17233C4220EFD0300201AD9 /* Chopin_ Etude #12 In C Minor, Op. 10_12, _Revolutionary_.m4a in Resources */ = {isa = PBXBuildFile; fileRef = E17233AF220EFCFF00201AD9 /* Chopin_ Etude #12 In C Minor, Op. 10_12, _Revolutionary_.m4a */; };
+		E17233C5220EFD0300201AD9 /* Chopin_ Nocturne #21 In C Minor, Op. Posth.m4a in Resources */ = {isa = PBXBuildFile; fileRef = E17233B0220EFCFF00201AD9 /* Chopin_ Nocturne #21 In C Minor, Op. Posth.m4a */; };
+		E17233C6220EFD0300201AD9 /* Chopin_ Etude #11 In A Minor, Op. 25_11, _Winter Wind_.m4a in Resources */ = {isa = PBXBuildFile; fileRef = E17233B1220EFD0000201AD9 /* Chopin_ Etude #11 In A Minor, Op. 25_11, _Winter Wind_.m4a */; };
+		E17233C7220EFD0300201AD9 /* Chopin_ Prelude #7 In A, Op. 28_7.m4a in Resources */ = {isa = PBXBuildFile; fileRef = E17233B2220EFD0000201AD9 /* Chopin_ Prelude #7 In A, Op. 28_7.m4a */; };
+		E17233C8220EFD0300201AD9 /* Chopin_ Valse #1 In E Flat, Op. 18, _Grande Valse Brillante_.m4a in Resources */ = {isa = PBXBuildFile; fileRef = E17233B3220EFD0000201AD9 /* Chopin_ Valse #1 In E Flat, Op. 18, _Grande Valse Brillante_.m4a */; };
+		E17233C9220EFD0300201AD9 /* Chopin_ Prelude #11 In B, Op. 28_11.m4a in Resources */ = {isa = PBXBuildFile; fileRef = E17233B4220EFD0000201AD9 /* Chopin_ Prelude #11 In B, Op. 28_11.m4a */; };
+		E17233CA220EFD0300201AD9 /* Chopin_ Prelude In D Flat, Op. 28_15, _Raindrop_.m4a in Resources */ = {isa = PBXBuildFile; fileRef = E17233B5220EFD0100201AD9 /* Chopin_ Prelude In D Flat, Op. 28_15, _Raindrop_.m4a */; };
+		E17233CB220EFD0300201AD9 /* Chopin_ Polonaise #6 In A Flat, Op. 53, _Heroique_.m4a in Resources */ = {isa = PBXBuildFile; fileRef = E17233B6220EFD0100201AD9 /* Chopin_ Polonaise #6 In A Flat, Op. 53, _Heroique_.m4a */; };
+		E17233CC220EFD0300201AD9 /* Chopin_ Fantaisie - Impromptu In C Sharp Minor, Op. 66.m4a in Resources */ = {isa = PBXBuildFile; fileRef = E17233B7220EFD0100201AD9 /* Chopin_ Fantaisie - Impromptu In C Sharp Minor, Op. 66.m4a */; };
+		E17233CD220EFD0300201AD9 /* Chopin_ Etude #3 In E, Op. 10_3, _Chanson De L'adieu_.m4a in Resources */ = {isa = PBXBuildFile; fileRef = E17233B8220EFD0200201AD9 /* Chopin_ Etude #3 In E, Op. 10_3, _Chanson De L'adieu_.m4a */; };
+		E17233CE220EFD0300201AD9 /* Chopin_ Nocturne #20 In C Sharp Minor, Op. Posth.m4a in Resources */ = {isa = PBXBuildFile; fileRef = E17233B9220EFD0200201AD9 /* Chopin_ Nocturne #20 In C Sharp Minor, Op. Posth.m4a */; };
+		E17233CF220EFD0300201AD9 /* Chopin_ Valse #6 In D Flat, Op. 64_1, _Petit Chien_.m4a in Resources */ = {isa = PBXBuildFile; fileRef = E17233BA220EFD0200201AD9 /* Chopin_ Valse #6 In D Flat, Op. 64_1, _Petit Chien_.m4a */; };
+		E17233D0220EFD0300201AD9 /* Chopin_ Etude #5 In G Flat, Op. 10_5, _Black Keys_.m4a in Resources */ = {isa = PBXBuildFile; fileRef = E17233BB220EFD0300201AD9 /* Chopin_ Etude #5 In G Flat, Op. 10_5, _Black Keys_.m4a */; };
+		E17233D1220EFD0300201AD9 /* Chopin_ Nocturne #5 In F Sharp, Op. 15_2.m4a in Resources */ = {isa = PBXBuildFile; fileRef = E17233BC220EFD0300201AD9 /* Chopin_ Nocturne #5 In F Sharp, Op. 15_2.m4a */; };
+		E17233D4220EFD5D00201AD9 /* play.png in Resources */ = {isa = PBXBuildFile; fileRef = E17233D2220EFD5D00201AD9 /* play.png */; };
+		E17233D5220EFD5D00201AD9 /* pause.png in Resources */ = {isa = PBXBuildFile; fileRef = E17233D3220EFD5D00201AD9 /* pause.png */; };
+		E17233D7220F072900201AD9 /* next.png in Resources */ = {isa = PBXBuildFile; fileRef = E17233D6220F072900201AD9 /* next.png */; };
+		E17233D9220F10AF00201AD9 /* back.png in Resources */ = {isa = PBXBuildFile; fileRef = E17233D8220F10AF00201AD9 /* back.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +83,42 @@
 		E1723363220ED91100201AD9 /* TechPod2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TechPod2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1723367220ED91100201AD9 /* TechPod2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TechPod2UITests.swift; sourceTree = "<group>"; };
 		E1723369220ED91100201AD9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E1723392220EEF8400201AD9 /* Chopin_BarcarolleOp60.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Chopin_BarcarolleOp60.m4a; sourceTree = "<group>"; };
+		E1723393220EEF8400201AD9 /* Rachmaninov_ Piano Concerto #3 In D Minor, Op. 30 - 1. Allegro Ma Non Tanto.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Rachmaninov_ Piano Concerto #3 In D Minor, Op. 30 - 1. Allegro Ma Non Tanto.m4a"; sourceTree = "<group>"; };
+		E1723394220EEF8400201AD9 /* Chopin_BallardNo4.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Chopin_BallardNo4.m4a; sourceTree = "<group>"; };
+		E1723395220EEF8400201AD9 /* ショパン_ ワルツ #6 変ニ長調, Op. 64_1, 『小犬』.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ショパン_ ワルツ #6 変ニ長調, Op. 64_1, 『小犬』.m4a"; sourceTree = "<group>"; };
+		E1723396220EEF8400201AD9 /* ショパン_ 練習曲第4番, 嬰ハ短調, Op. 10-4.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ショパン_ 練習曲第4番, 嬰ハ短調, Op. 10-4.m4a"; sourceTree = "<group>"; };
+		E1723397220EEF8400201AD9 /* ラフマニノフ_ ピアノ協奏曲第2番, ハ短調, Op. 18 - 1. モデラート.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ラフマニノフ_ ピアノ協奏曲第2番, ハ短調, Op. 18 - 1. モデラート.m4a"; sourceTree = "<group>"; };
+		E1723398220EEF8400201AD9 /* Rachmaninov_ Piano Concerto #3 In D Minor, Op. 30 - 2. Intermezzo Adagio.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Rachmaninov_ Piano Concerto #3 In D Minor, Op. 30 - 2. Intermezzo Adagio.m4a"; sourceTree = "<group>"; };
+		E1723399220EEF8400201AD9 /* ラフマニノフ_ ピアノ協奏曲第2番, ハ短調, Op. 18 - 2. アダージョ・ソステヌート.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ラフマニノフ_ ピアノ協奏曲第2番, ハ短調, Op. 18 - 2. アダージョ・ソステヌート.m4a"; sourceTree = "<group>"; };
+		E172339A220EEF8400201AD9 /* ラフマニノフ_ ピアノ協奏曲第2番, ハ短調, Op. 18 - 3. アレグロ・スケルツァンド.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ラフマニノフ_ ピアノ協奏曲第2番, ハ短調, Op. 18 - 3. アレグロ・スケルツァンド.m4a"; sourceTree = "<group>"; };
+		E172339B220EEF8400201AD9 /* リスト_ラ・カンパネラ.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "リスト_ラ・カンパネラ.m4a"; sourceTree = "<group>"; };
+		E172339C220EEF8400201AD9 /* Rachmaninov_ Piano Concerto #3 In D Minor, Op. 30 - 3. Finale, Alla Breve.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Rachmaninov_ Piano Concerto #3 In D Minor, Op. 30 - 3. Finale, Alla Breve.m4a"; sourceTree = "<group>"; };
+		E17233A8220EFCFD00201AD9 /* Chopin_ Prelude #23 In F, Op. 28_23.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Chopin_ Prelude #23 In F, Op. 28_23.m4a"; sourceTree = "<group>"; };
+		E17233A9220EFCFD00201AD9 /* Chopin_ Etude #1 In A Flat, Op. 25_1, _Aeolian Harp_.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Chopin_ Etude #1 In A Flat, Op. 25_1, _Aeolian Harp_.m4a"; sourceTree = "<group>"; };
+		E17233AA220EFCFE00201AD9 /* Chopin_ Prelude #3 In G, Op. 28_3.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Chopin_ Prelude #3 In G, Op. 28_3.m4a"; sourceTree = "<group>"; };
+		E17233AB220EFCFE00201AD9 /* Chopin_ Nocturne #1 In B Flat Minor, Op. 9_1.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Chopin_ Nocturne #1 In B Flat Minor, Op. 9_1.m4a"; sourceTree = "<group>"; };
+		E17233AC220EFCFE00201AD9 /* Chopin_ Etude #7 In C Sharp Minor, Op. 25_7.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Chopin_ Etude #7 In C Sharp Minor, Op. 25_7.m4a"; sourceTree = "<group>"; };
+		E17233AD220EFCFF00201AD9 /* Chopin_ Nocturne #2 In E Flat, Op. 9_2.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Chopin_ Nocturne #2 In E Flat, Op. 9_2.m4a"; sourceTree = "<group>"; };
+		E17233AE220EFCFF00201AD9 /* Chopin_ Berceuse In D Flat, Op. 57.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Chopin_ Berceuse In D Flat, Op. 57.m4a"; sourceTree = "<group>"; };
+		E17233AF220EFCFF00201AD9 /* Chopin_ Etude #12 In C Minor, Op. 10_12, _Revolutionary_.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Chopin_ Etude #12 In C Minor, Op. 10_12, _Revolutionary_.m4a"; sourceTree = "<group>"; };
+		E17233B0220EFCFF00201AD9 /* Chopin_ Nocturne #21 In C Minor, Op. Posth.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Chopin_ Nocturne #21 In C Minor, Op. Posth.m4a"; sourceTree = "<group>"; };
+		E17233B1220EFD0000201AD9 /* Chopin_ Etude #11 In A Minor, Op. 25_11, _Winter Wind_.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Chopin_ Etude #11 In A Minor, Op. 25_11, _Winter Wind_.m4a"; sourceTree = "<group>"; };
+		E17233B2220EFD0000201AD9 /* Chopin_ Prelude #7 In A, Op. 28_7.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Chopin_ Prelude #7 In A, Op. 28_7.m4a"; sourceTree = "<group>"; };
+		E17233B3220EFD0000201AD9 /* Chopin_ Valse #1 In E Flat, Op. 18, _Grande Valse Brillante_.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Chopin_ Valse #1 In E Flat, Op. 18, _Grande Valse Brillante_.m4a"; sourceTree = "<group>"; };
+		E17233B4220EFD0000201AD9 /* Chopin_ Prelude #11 In B, Op. 28_11.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Chopin_ Prelude #11 In B, Op. 28_11.m4a"; sourceTree = "<group>"; };
+		E17233B5220EFD0100201AD9 /* Chopin_ Prelude In D Flat, Op. 28_15, _Raindrop_.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Chopin_ Prelude In D Flat, Op. 28_15, _Raindrop_.m4a"; sourceTree = "<group>"; };
+		E17233B6220EFD0100201AD9 /* Chopin_ Polonaise #6 In A Flat, Op. 53, _Heroique_.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Chopin_ Polonaise #6 In A Flat, Op. 53, _Heroique_.m4a"; sourceTree = "<group>"; };
+		E17233B7220EFD0100201AD9 /* Chopin_ Fantaisie - Impromptu In C Sharp Minor, Op. 66.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Chopin_ Fantaisie - Impromptu In C Sharp Minor, Op. 66.m4a"; sourceTree = "<group>"; };
+		E17233B8220EFD0200201AD9 /* Chopin_ Etude #3 In E, Op. 10_3, _Chanson De L'adieu_.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Chopin_ Etude #3 In E, Op. 10_3, _Chanson De L'adieu_.m4a"; sourceTree = "<group>"; };
+		E17233B9220EFD0200201AD9 /* Chopin_ Nocturne #20 In C Sharp Minor, Op. Posth.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Chopin_ Nocturne #20 In C Sharp Minor, Op. Posth.m4a"; sourceTree = "<group>"; };
+		E17233BA220EFD0200201AD9 /* Chopin_ Valse #6 In D Flat, Op. 64_1, _Petit Chien_.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Chopin_ Valse #6 In D Flat, Op. 64_1, _Petit Chien_.m4a"; sourceTree = "<group>"; };
+		E17233BB220EFD0300201AD9 /* Chopin_ Etude #5 In G Flat, Op. 10_5, _Black Keys_.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Chopin_ Etude #5 In G Flat, Op. 10_5, _Black Keys_.m4a"; sourceTree = "<group>"; };
+		E17233BC220EFD0300201AD9 /* Chopin_ Nocturne #5 In F Sharp, Op. 15_2.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Chopin_ Nocturne #5 In F Sharp, Op. 15_2.m4a"; sourceTree = "<group>"; };
+		E17233D2220EFD5D00201AD9 /* play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = play.png; sourceTree = "<group>"; };
+		E17233D3220EFD5D00201AD9 /* pause.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pause.png; sourceTree = "<group>"; };
+		E17233D6220F072900201AD9 /* next.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = next.png; sourceTree = "<group>"; };
+		E17233D8220F10AF00201AD9 /* back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = back.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +169,11 @@
 		E1723346220ED90F00201AD9 /* TechPod2 */ = {
 			isa = PBXGroup;
 			children = (
+				E17233D8220F10AF00201AD9 /* back.png */,
+				E17233D6220F072900201AD9 /* next.png */,
+				E17233D3220EFD5D00201AD9 /* pause.png */,
+				E17233D2220EFD5D00201AD9 /* play.png */,
+				E1723391220EEF8400201AD9 /* ClassicalMusic */,
 				E1723347220ED90F00201AD9 /* AppDelegate.swift */,
 				E1723349220ED90F00201AD9 /* ViewController.swift */,
 				E172334B220ED90F00201AD9 /* Main.storyboard */,
@@ -123,6 +200,45 @@
 				E1723369220ED91100201AD9 /* Info.plist */,
 			);
 			path = TechPod2UITests;
+			sourceTree = "<group>";
+		};
+		E1723391220EEF8400201AD9 /* ClassicalMusic */ = {
+			isa = PBXGroup;
+			children = (
+				E17233AE220EFCFF00201AD9 /* Chopin_ Berceuse In D Flat, Op. 57.m4a */,
+				E17233A9220EFCFD00201AD9 /* Chopin_ Etude #1 In A Flat, Op. 25_1, _Aeolian Harp_.m4a */,
+				E17233B8220EFD0200201AD9 /* Chopin_ Etude #3 In E, Op. 10_3, _Chanson De L'adieu_.m4a */,
+				E17233BB220EFD0300201AD9 /* Chopin_ Etude #5 In G Flat, Op. 10_5, _Black Keys_.m4a */,
+				E17233AC220EFCFE00201AD9 /* Chopin_ Etude #7 In C Sharp Minor, Op. 25_7.m4a */,
+				E17233B1220EFD0000201AD9 /* Chopin_ Etude #11 In A Minor, Op. 25_11, _Winter Wind_.m4a */,
+				E17233AF220EFCFF00201AD9 /* Chopin_ Etude #12 In C Minor, Op. 10_12, _Revolutionary_.m4a */,
+				E17233B7220EFD0100201AD9 /* Chopin_ Fantaisie - Impromptu In C Sharp Minor, Op. 66.m4a */,
+				E17233AB220EFCFE00201AD9 /* Chopin_ Nocturne #1 In B Flat Minor, Op. 9_1.m4a */,
+				E17233AD220EFCFF00201AD9 /* Chopin_ Nocturne #2 In E Flat, Op. 9_2.m4a */,
+				E17233BC220EFD0300201AD9 /* Chopin_ Nocturne #5 In F Sharp, Op. 15_2.m4a */,
+				E17233B9220EFD0200201AD9 /* Chopin_ Nocturne #20 In C Sharp Minor, Op. Posth.m4a */,
+				E17233B0220EFCFF00201AD9 /* Chopin_ Nocturne #21 In C Minor, Op. Posth.m4a */,
+				E17233B6220EFD0100201AD9 /* Chopin_ Polonaise #6 In A Flat, Op. 53, _Heroique_.m4a */,
+				E17233AA220EFCFE00201AD9 /* Chopin_ Prelude #3 In G, Op. 28_3.m4a */,
+				E17233B2220EFD0000201AD9 /* Chopin_ Prelude #7 In A, Op. 28_7.m4a */,
+				E17233B4220EFD0000201AD9 /* Chopin_ Prelude #11 In B, Op. 28_11.m4a */,
+				E17233A8220EFCFD00201AD9 /* Chopin_ Prelude #23 In F, Op. 28_23.m4a */,
+				E17233B5220EFD0100201AD9 /* Chopin_ Prelude In D Flat, Op. 28_15, _Raindrop_.m4a */,
+				E17233B3220EFD0000201AD9 /* Chopin_ Valse #1 In E Flat, Op. 18, _Grande Valse Brillante_.m4a */,
+				E17233BA220EFD0200201AD9 /* Chopin_ Valse #6 In D Flat, Op. 64_1, _Petit Chien_.m4a */,
+				E1723392220EEF8400201AD9 /* Chopin_BarcarolleOp60.m4a */,
+				E1723393220EEF8400201AD9 /* Rachmaninov_ Piano Concerto #3 In D Minor, Op. 30 - 1. Allegro Ma Non Tanto.m4a */,
+				E1723394220EEF8400201AD9 /* Chopin_BallardNo4.m4a */,
+				E1723395220EEF8400201AD9 /* ショパン_ ワルツ #6 変ニ長調, Op. 64_1, 『小犬』.m4a */,
+				E1723396220EEF8400201AD9 /* ショパン_ 練習曲第4番, 嬰ハ短調, Op. 10-4.m4a */,
+				E1723397220EEF8400201AD9 /* ラフマニノフ_ ピアノ協奏曲第2番, ハ短調, Op. 18 - 1. モデラート.m4a */,
+				E1723398220EEF8400201AD9 /* Rachmaninov_ Piano Concerto #3 In D Minor, Op. 30 - 2. Intermezzo Adagio.m4a */,
+				E1723399220EEF8400201AD9 /* ラフマニノフ_ ピアノ協奏曲第2番, ハ短調, Op. 18 - 2. アダージョ・ソステヌート.m4a */,
+				E172339A220EEF8400201AD9 /* ラフマニノフ_ ピアノ協奏曲第2番, ハ短調, Op. 18 - 3. アレグロ・スケルツァンド.m4a */,
+				E172339B220EEF8400201AD9 /* リスト_ラ・カンパネラ.m4a */,
+				E172339C220EEF8400201AD9 /* Rachmaninov_ Piano Concerto #3 In D Minor, Op. 30 - 3. Finale, Alla Breve.m4a */,
+			);
+			path = ClassicalMusic;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -193,6 +309,11 @@
 				TargetAttributes = {
 					E1723343220ED90F00201AD9 = {
 						CreatedOnToolsVersion = 10.1;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+						};
 					};
 					E1723357220ED91100201AD9 = {
 						CreatedOnToolsVersion = 10.1;
@@ -229,9 +350,45 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E17233CD220EFD0300201AD9 /* Chopin_ Etude #3 In E, Op. 10_3, _Chanson De L'adieu_.m4a in Resources */,
+				E17233C9220EFD0300201AD9 /* Chopin_ Prelude #11 In B, Op. 28_11.m4a in Resources */,
+				E17233BE220EFD0300201AD9 /* Chopin_ Etude #1 In A Flat, Op. 25_1, _Aeolian Harp_.m4a in Resources */,
+				E17233D0220EFD0300201AD9 /* Chopin_ Etude #5 In G Flat, Op. 10_5, _Black Keys_.m4a in Resources */,
+				E17233D5220EFD5D00201AD9 /* pause.png in Resources */,
+				E172339E220EEF8400201AD9 /* Rachmaninov_ Piano Concerto #3 In D Minor, Op. 30 - 1. Allegro Ma Non Tanto.m4a in Resources */,
+				E17233C3220EFD0300201AD9 /* Chopin_ Berceuse In D Flat, Op. 57.m4a in Resources */,
 				E1723352220ED91100201AD9 /* LaunchScreen.storyboard in Resources */,
+				E17233A1220EEF8400201AD9 /* ショパン_ 練習曲第4番, 嬰ハ短調, Op. 10-4.m4a in Resources */,
+				E17233A2220EEF8400201AD9 /* ラフマニノフ_ ピアノ協奏曲第2番, ハ短調, Op. 18 - 1. モデラート.m4a in Resources */,
+				E17233A3220EEF8400201AD9 /* Rachmaninov_ Piano Concerto #3 In D Minor, Op. 30 - 2. Intermezzo Adagio.m4a in Resources */,
+				E17233C7220EFD0300201AD9 /* Chopin_ Prelude #7 In A, Op. 28_7.m4a in Resources */,
+				E17233D7220F072900201AD9 /* next.png in Resources */,
+				E172339D220EEF8400201AD9 /* Chopin_BarcarolleOp60.m4a in Resources */,
+				E17233A6220EEF8400201AD9 /* リスト_ラ・カンパネラ.m4a in Resources */,
+				E17233C4220EFD0300201AD9 /* Chopin_ Etude #12 In C Minor, Op. 10_12, _Revolutionary_.m4a in Resources */,
 				E172334F220ED91100201AD9 /* Assets.xcassets in Resources */,
+				E17233CB220EFD0300201AD9 /* Chopin_ Polonaise #6 In A Flat, Op. 53, _Heroique_.m4a in Resources */,
+				E17233CC220EFD0300201AD9 /* Chopin_ Fantaisie - Impromptu In C Sharp Minor, Op. 66.m4a in Resources */,
+				E17233A4220EEF8400201AD9 /* ラフマニノフ_ ピアノ協奏曲第2番, ハ短調, Op. 18 - 2. アダージョ・ソステヌート.m4a in Resources */,
+				E17233C1220EFD0300201AD9 /* Chopin_ Etude #7 In C Sharp Minor, Op. 25_7.m4a in Resources */,
+				E17233A5220EEF8400201AD9 /* ラフマニノフ_ ピアノ協奏曲第2番, ハ短調, Op. 18 - 3. アレグロ・スケルツァンド.m4a in Resources */,
+				E17233CA220EFD0300201AD9 /* Chopin_ Prelude In D Flat, Op. 28_15, _Raindrop_.m4a in Resources */,
+				E17233A0220EEF8400201AD9 /* ショパン_ ワルツ #6 変ニ長調, Op. 64_1, 『小犬』.m4a in Resources */,
+				E17233CF220EFD0300201AD9 /* Chopin_ Valse #6 In D Flat, Op. 64_1, _Petit Chien_.m4a in Resources */,
+				E17233C8220EFD0300201AD9 /* Chopin_ Valse #1 In E Flat, Op. 18, _Grande Valse Brillante_.m4a in Resources */,
+				E17233C5220EFD0300201AD9 /* Chopin_ Nocturne #21 In C Minor, Op. Posth.m4a in Resources */,
+				E172339F220EEF8400201AD9 /* Chopin_BallardNo4.m4a in Resources */,
+				E17233C6220EFD0300201AD9 /* Chopin_ Etude #11 In A Minor, Op. 25_11, _Winter Wind_.m4a in Resources */,
 				E172334D220ED90F00201AD9 /* Main.storyboard in Resources */,
+				E17233C2220EFD0300201AD9 /* Chopin_ Nocturne #2 In E Flat, Op. 9_2.m4a in Resources */,
+				E17233D4220EFD5D00201AD9 /* play.png in Resources */,
+				E17233D9220F10AF00201AD9 /* back.png in Resources */,
+				E17233CE220EFD0300201AD9 /* Chopin_ Nocturne #20 In C Sharp Minor, Op. Posth.m4a in Resources */,
+				E17233D1220EFD0300201AD9 /* Chopin_ Nocturne #5 In F Sharp, Op. 15_2.m4a in Resources */,
+				E17233A7220EEF8400201AD9 /* Rachmaninov_ Piano Concerto #3 In D Minor, Op. 30 - 3. Finale, Alla Breve.m4a in Resources */,
+				E17233C0220EFD0300201AD9 /* Chopin_ Nocturne #1 In B Flat Minor, Op. 9_1.m4a in Resources */,
+				E17233BF220EFD0300201AD9 /* Chopin_ Prelude #3 In G, Op. 28_3.m4a in Resources */,
+				E17233BD220EFD0300201AD9 /* Chopin_ Prelude #23 In F, Op. 28_23.m4a in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
